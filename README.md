@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI
 - 📈 Finance (Portfolio management and Risk management, Forecasting models)
-- Blockchain and Web3 Addicted
+- ₿ Blockchain and Web3 Addicted
 - 👨🏻‍🎓 MSc Student in Systems Engineering for Financial Technology
 
 ### Connect with me:
