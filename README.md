@@ -1,9 +1,9 @@
 # Hi there, I'm Alessandro - aka @alessandrofogli 👋 
 
-- 👀 I’m interested in AI
-- 📈 Finance (Portfolio optimisation, Forecasting models, credit risk)
+- 🤖 I’m a Data Scientist working in Finance
+- 📈 Finance passionate (Portfolio optimisation, Forecasting models, credit risk)
 - ₿ Blockchain and Web3 Addicted
-- 👨🏻‍🎓 MSc Student in Systems Engineering for Financial Technology
+- 👨🏻‍🎓 I hold a MSc in Systems Engineering for Financial Technology
 
 ### Connect with me:
 
